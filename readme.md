@@ -1,3 +1,11 @@
+<p align="left"> <a href="https://twitter.com/un1qu3_py" target="blank"><img src="https://img.shields.io/twitter/follow/un1qu3_py?logo=twitter&style=for-the-badge" alt="un1qu3_py" /></a> </p>
+Used Technologies :- 
+
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+
+    
+<br>
+<br>
 C Programming Labsheet 1-6
 
 This repository contains a collection of C programming labsheets. Each labsheet is designed to help you practice and improve your C programming skills. The labsheets are listed below along with a brief description of what each labsheet is about.
