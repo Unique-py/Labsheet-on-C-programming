@@ -48,5 +48,6 @@ Contributing
 If you would like to contribute to this repository, please fork the repository and submit a pull request. Your contributions are greatly appreciated.
 License
 
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+This repository is licensed under the KHSS License. See the LICENSE file for more information.
+
 &copy; Unique Shrestha ,April 15  All right reserved KHSS
