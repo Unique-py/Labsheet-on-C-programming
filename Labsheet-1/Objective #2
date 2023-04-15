@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	int a; float b; char c;
+	clrscr();
+	a =3 ; b=3.0; c='p';
+	a=a*2.3;
+	b=b*2.3;
+	printf("\n a =%d",a);
+	printf("\n b=%.2f",b);
+	printf("\n c =%c",c);
+	getch();
+}
+
+/* =6
+ b=6.90
+ c =p *\
