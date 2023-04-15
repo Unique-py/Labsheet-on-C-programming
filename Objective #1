@@ -11,6 +11,7 @@ void main()
   getch();
 }
 
+
 /*
 Output 
 a=1
