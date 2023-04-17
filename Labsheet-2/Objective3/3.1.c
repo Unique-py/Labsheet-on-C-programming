@@ -21,4 +21,7 @@ getch();
 
 
 }
-/*This program compares three integer values x, y, and z. If x is equal to y or z, or if y is equal to z, it prints the corresponding message. Otherwise, it prints "x, y, z are not equal". The program uses standard input/output library functions in C and clears the console screen using clrscr().
+/*This program compares three integer values x, y, and z. 
+If x is equal to y or z, or if y is equal to z, it prints the corresponding message. 
+Otherwise, it prints "x, y, z are not equal".
+The program uses standard input/output library functions in C and clears the console screen using clrscr().
