@@ -14,6 +14,6 @@ int main()
         printf("Second Division");
     else
         printf("First Division");
-    getch();
+    
     return 0;
 }
